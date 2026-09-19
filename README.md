@@ -1,4 +1,4 @@
-# hm-icons study copy
+# hm-icons Reference Copy
 
 This repository contains a copy of the `hm-icons` project originally published by Human Made Limited.
 
@@ -13,7 +13,7 @@ The project provides helpers for outputting inline SVG icons, including legacy f
 
 ## Why this repository exists
 
-I kept this copy as an old technical reference while studying reusable SVG icon helpers and asset-generation workflows.
+I kept this copy as a historical technical reference for reusable SVG icon helpers and asset-generation workflows.
 
 I do not present the original implementation as my own work.
 
@@ -21,4 +21,4 @@ For source history, maintenance and upstream documentation, use the original Hum
 
 ## Portfolio status
 
-Historical third-party study reference. It should not be considered one of my original portfolio projects.
+Historical third-party reference. It is not presented as one of my original portfolio projects.
